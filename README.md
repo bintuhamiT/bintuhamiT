@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Bin Tuhami's Banner" width="1200" height="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+  <img src="./logo.jpg" alt="Bin Tuhami's Banner" width="1200" height="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
 </p>
 
 <h1 align="center">🚀 Bin Tuhami: Building Your Digital Future</h1>
